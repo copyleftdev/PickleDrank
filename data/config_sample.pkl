@@ -1,0 +1,17 @@
+(dp0
+S'[Config Section 2]'
+p1
+(lp2
+S'value 1'
+p3
+aS'value 2'
+p4
+aS'value 3'
+p5
+asS'[Config Section 1]'
+p6
+(lp7
+g3
+ag4
+ag5
+as.

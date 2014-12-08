@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 
 #Author: Donald Johnson <dj@codetestcode.io>
-# A Set of convertion functions to assist in the conversion of pickle,ini,dictionary
+
 import pickle
 
 
-class PickelUtils(object):
+class PickleUtils(object):
 
     def dict_to_pickle(self, dict_name, file_name, save_to_location):
 
